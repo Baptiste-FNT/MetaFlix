@@ -1,2 +1,2 @@
 # MetaFlix
-Projet Metaflix 
+Projet MetaFlix 
